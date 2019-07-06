@@ -1,0 +1,11 @@
+# Database
+*.sqlite3
+
+# vs code
+jmn_portfolio/.vscode/
+
+# python cache
+*__pycache__/
+
+# pycharm
+.idea/
